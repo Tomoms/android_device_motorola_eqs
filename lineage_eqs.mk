@@ -33,6 +33,8 @@ PRODUCT_MODEL := motorola edge 30 ultra
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
+TARGET_UNOFFICIAL_BUILD_ID := Tom
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct="eqs_g" \
     BuildDesc="eqs_g-user 15 V1SQS35H.58-10-8-13 dc7aa6-8e385a release-keys" \
